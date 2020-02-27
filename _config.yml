@@ -1,10 +1,8 @@
-title: Shabet's blog
-author: shabet
+title: Riyo's blog
+author: Riyo
 email: freakfreak22@naver.com
 description: > # this means to ignore newlines until "show_exerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Welcome to my devlog. I am Riyo. I am a student programmer interested in C and C++. 
 show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
@@ -12,7 +10,7 @@ show_excerpts: true # set to true to show excerpts on the homepage
 sass:
   sass_dir: _sass
 plainwhite:
-  name: shabet
+  name: Riyo
   tagline: Developer. Student
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
