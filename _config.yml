@@ -18,7 +18,7 @@ plainwhite:
   # generate social links in footer
   social_links:
     twitter: https://twitter.com/2berealme_me
-    github:  freakfreak22
+    github:  https://github.com/freakfreak22
     linkedIn: 
     rss: rss
     # dribbble: jekyll
