@@ -9,8 +9,8 @@
 title:       Riyo's World
 email:       'freakfreak22@naver.com'
 description: 'Riyo's Devlog'
-baseurl:     'freakfreak22.github.io' # The subpath of your site, e.g. /blog
-url:         'freakfreak22.github.io' # The base hostname & protocol for your site
+baseurl:     '' # The subpath of your site, e.g. /blog
+url:         '' # The base hostname & protocol for your site
 twitter:     ''
 github:      'https://github.com/freakfreak22'
 instagram:   ''
