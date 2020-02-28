@@ -6,13 +6,13 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title:       Type
+title:       Riyo's World
 email:       ''
 description: ''
-baseurl:     '' # The subpath of your site, e.g. /blog
-url:         'https://type-jekyll.aspirethemes.com/' # The base hostname & protocol for your site
+baseurl:     'freakfreak22.github.io' # The subpath of your site, e.g. /blog
+url:         'freakfreak22.github.io' # The base hostname & protocol for your site
 twitter:     ''
-github:      ''
+github:      'https://github.com/freakfreak22'
 instagram:   ''
 facebook:    ''
 
