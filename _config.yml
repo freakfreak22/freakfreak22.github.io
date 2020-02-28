@@ -7,8 +7,8 @@
 
 # Site settings
 title:       Riyo's World
-email:       ''
-description: ''
+email:       'freakfreak22@naver.com'
+description: 'Riyo's Devlog'
 baseurl:     'freakfreak22.github.io' # The subpath of your site, e.g. /blog
 url:         'freakfreak22.github.io' # The base hostname & protocol for your site
 twitter:     ''
