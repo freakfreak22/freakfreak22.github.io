@@ -1,7 +1,7 @@
 ---
 layout: page
 title: I am...
-image: '/images/pages/about.jpeg'
+image: '/images/pages/about.jpg'
 ---
 
 Welcome to my Devlog.    
