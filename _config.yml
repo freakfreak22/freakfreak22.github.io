@@ -9,7 +9,7 @@
 title:       "Riyo's World"
 email:       'freakfreak22@naver.com'
 description: "Riyo's Devlog"
-baseurl:     '/blog' # The subpath of your site, e.g. /blog
+baseurl:     '' # The subpath of your site, e.g. /blog
 url:         "riyo.dev" # The base hostname & protocol for your site
 twitter:     ''
 github:      'https://github.com/freakfreak22'
@@ -34,6 +34,8 @@ exclude:
   - vendor
   - Gemfile
   - Gemfile.lock
+
+permalink: none
 
 # Tags
 tag_page_dir:         tag
