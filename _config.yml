@@ -37,7 +37,6 @@ exclude:
 
 permalink: none
 
-font-family: 'Nanum Myeongjo', serif;
 google_fonts: "Nanum Myeongjo:400,700,800"
 
 # Tags
