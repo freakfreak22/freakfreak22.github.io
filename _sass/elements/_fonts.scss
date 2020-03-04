@@ -2,3 +2,20 @@
   Elements > Fonts
 \*------------------------------------*/
 
+$Nanum-Myeongjo: 'Nanum+Myeongjo', serif;   
+
+// Styles
+body {
+  font-family: $Nanum-Myeongj;
+  font-weight: normal;
+}
+h1, h2, h3, h4, h5, h6 {
+  font-family: $Nanum-Myeongj;
+  font-weight: normal;
+}
+
+.button {
+  font-family: $Nanum-Myeongjo;
+  font-weight: bold;
+}
+
