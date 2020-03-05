@@ -7,6 +7,6 @@ comments: false
 ---
 
 hello world 
-
+![test](/assets/flare.jpg)
 
 
