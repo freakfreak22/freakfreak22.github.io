@@ -1,6 +1,6 @@
 ---
 layout: page
-title: I am...
+title: about
 image: '/assets/Iam.jpg'
 ---
 
