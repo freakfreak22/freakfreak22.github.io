@@ -8,7 +8,7 @@
 # Site settings
 title:       "Riyo's World"
 email:       'freakfreak22@naver.com'
-description: "Riyo's Devlog"
+description: "Riyo's blog"
 baseurl:     '' # The subpath of your site, e.g. /blog
 url:         "riyo.dev" # The base hostname & protocol for your site
 twitter:     ''
@@ -36,6 +36,8 @@ exclude:
   - Gemfile.lock
 
 permalink: none
+
+og_image : "/assets/helloworld.jpg"
 
 google_fonts: "Nanum Myeongjo:400,700,800"
 

@@ -8,6 +8,7 @@
   <link rel='canonical' href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel='alternate' type='application/rss+xml' title='{{ site.title }}' href="{{ '/feed.xml' | prepend: site.baseurl | prepend: site.url }}">
 
+  <!--favicon-->
   <link rel="apple-touch-icon" sizes="180x180" href="favicon_package_v0.16(1)/apple-touch-icon.png?v=wAdp759BKW">
   <link rel="icon" type="image/png" sizes="32x32" href="favicon_package_v0.16(1)/favicon-32x32.png?v=wAdp759BKW">
   <link rel="icon" type="image/png" sizes="16x16" href="favicon_package_v0.16(1)/favicon-16x16.png?v=wAdp759BKW">
@@ -16,10 +17,22 @@
   <meta name="msapplication-TileColor" content="#603cba">
   <meta name="theme-color" content="#ffffff">
   
+  <!--twitter card-->
   <meta name="twitter:card" content="summary">
   <meta name="twitter:url" content="https://www.riyo.dev">
   <meta name="twitter:title" content="{{ page.title }}">
+  <meta name="twitter:description" content="{{ site.description }}">
   <meta name="twitter:image" content="https://riyo.dev/assets/helloworld.jpg">
+
+  <!--opengraph-->
+  <meta property="og:locale" content="en_US">
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+  <meta property="og:description"
+    content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+  <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+  <meta property="og:site_name" content="{{ site.title }}">
+  <meta property="og:image" content="{{ site.url }}/assets/helloworld.jpg">
 
   <style>
     {% capture inlineCSS %}
