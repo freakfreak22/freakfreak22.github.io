@@ -7,6 +7,6 @@ comments: false
 ---
 
 hello world 
-![test](/assets/test.jpg)
+![test](/assets/helloworld.jpg)
 
 
