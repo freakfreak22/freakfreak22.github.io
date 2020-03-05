@@ -11,10 +11,10 @@ email:       'freakfreak22@naver.com'
 description: "Riyo's blog"
 baseurl:     '' # The subpath of your site, e.g. /blog
 url:         "https://riyo.dev" # The base hostname & protocol for your site
-twitter:     ''
+
 github:      'https://github.com/freakfreak22'
-instagram:   ''
-facebook:    ''
+
+
 
 markdown:  kramdown
 permalink: pretty
