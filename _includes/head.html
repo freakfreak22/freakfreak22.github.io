@@ -27,9 +27,9 @@
   <!--opengraph-->
   <meta property="og:locale" content="{{ site.locale }}">
   <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
-  <meta name="og:image" content="{{ site.url }}/assets/helloworld.jpg">
-  <meta property="og:description" content="{{ page.excerpt | strip_html }}">{% endif %}
-  <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.url }}">
+  <meta property="og:image" content="{{ site.url }}/assets/helloworld.jpg">
+  <meta property="og:description" content="{{site.description}}">
+  <meta property="og:url" content="{{ site.url }}{{ page.url }}">
   <meta property="og:site_name" content="{{ site.title }}">
 
   <style>
