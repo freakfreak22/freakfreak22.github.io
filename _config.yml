@@ -26,11 +26,6 @@ sass:
 plugins:
   - jekyll-paginate
   - jekyll/tagging
-  - jekyll-sitemap
-
-gems: 
-- jekyll-feed
-
 
 include:
   - _pages
