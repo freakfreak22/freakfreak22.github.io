@@ -1,3 +1,5 @@
 User-agent : Yeti
 User-agent : Googlebot
+Allow : /
 Disallow :/admin/
+Sitemap: https://riyo.dev/sitemap.xml
