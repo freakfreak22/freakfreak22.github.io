@@ -60,8 +60,8 @@ jekyll은 테마별로 구성이 조금씩 다르기 때문에, 어떤 경로에
 
 ![opengraph.JPG](/assets/opengraph.JPG)  
 
-**6. utterance로 댓글 기능 추가하기**  
-테마에 기본적으로 있는 건 disqus였지만, disqus는 적용하는데 계속 오류가 났고 또 utterance가 비쥬얼적으로 더 마음에 들어서 utterance를 적용했다. 다행이 앞선 기능들에 비해 초간단하게 적용할 수 있었다. 참고한 링크는 참고자료에 있으니 참고 바란다.  
+**6. utterances로 댓글 기능 추가하기**  
+테마에 기본적으로 있는 건 disqus였지만, disqus는 적용하는데 계속 오류가 났고 또 utterances가 비쥬얼적으로 더 마음에 들어서 utterances를 적용했다. 다행이 앞선 기능들에 비해 초간단하게 적용할 수 있었다. 참고한 링크는 참고자료에 있으니 참고 바란다.  
 
 **7. 마지막으로...**  
 그리고 블로그를 깎으면서 깨달은 건, **생각난 건 바로 해야 한다**는 것이다.  
@@ -84,15 +84,15 @@ jekyll은 테마별로 구성이 조금씩 다르기 때문에, 어떤 경로에
 잘해보자.  
 
 * 참고자료  
-<https://jekyllrb-ko.github.io/docs/posts/>  
-<https://mishka.kr/2020/01/10/github-domain/>  
-<https://colorbada.com/design-coding/1737/>  
-<https://www.developerdrive.com/how-to-easily-use-google-fonts-with-sass/>  
-<https://danaleegibson.com/jekyll-and-facebook-og-images/>  
-<https://velog.io/@yuuuye/velog-%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4MarkDown-%EC%9E%91%EC%84%B1%EB%B2%95>  
-<https://gmlwjd9405.github.io/2017/10/21/include-blog-in-a-NaverSearchEngine.html>  
-<https://velog.io/@ilcm96/jekyll-comment-with-utterances>  
-<https://dongsik93.github.io/til/2019/11/20/til-etc-utterances/>  
+[jekyll 포스트](https://jekyllrb-ko.github.io/docs/posts/)  
+[Github 블로그에 Custom 도메인 연결하기 ](https://mishka.kr/2020/01/10/github-domain/)  
+[링크 공유시 메타태그로 URL 대신 썸네일 보여주기](https://colorbada.com/design-coding/1737/)   
+[How to easily use Google Fonts with Sass ](https://www.developerdrive.com/how-to-easily-use-google-fonts-with-sass/)    
+[Jekyll and Facebook OG Images](https://danaleegibson.com/jekyll-and-facebook-og-images/)    
+[velog 마크다운(markdown) 작성법](https://velog.io/@yuuuye/velog-%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4MarkDown-%EC%9E%91%EC%84%B1%EB%B2%95)   
+[[Jekyll] 검색엔진에 블로그 등록하기 _Naver편](https://gmlwjd9405.github.io/2017/10/21/include-blog-in-a-NaverSearchEngine.html)   
+[utterances로 Jekyll에 댓글 기능 추가하기](https://velog.io/@ilcm96/jekyll-comment-with-utterances)    
+[Jekyll blog에 Utterances 적용하기](https://dongsik93.github.io/til/2019/11/20/til-etc-utterances/) 
 
 
 
